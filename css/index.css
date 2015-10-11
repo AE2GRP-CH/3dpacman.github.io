@@ -7,8 +7,8 @@ p{margin:0;}
 .top-content{text-align:center;margin:11% auto 5% auto;}
 .top-content .title > p{font-family:Wawati Sc;font-size:20px;letter-spacing: 0.05em}
 .top-content-links{margin:17px 0 0 0;font-size:15.5px;}
-.top-content-links p > a{text-decoration: none;font-weight:bold;letter-spacing: 0.03em;color:#277552;cursor:pointer}
-.bottom{height100%;padding:3.6%; 0 0 0;margin:0;font-family: Avenir}
+.top-content-links p > a{font-family:Avenir;text-decoration: none;font-weight:bold;letter-spacing: 0.03em;color:#277552;cursor:pointer}
+.bottom{height100%; 0 0 0;margin:0;font-family: Avenir}
 .tab-title{font-size:22px;font-weight:700;margin:0 0 20px 0}
 .row1,.row2{height:50%}
 .left,.right{float:left;width:50%;}
@@ -18,5 +18,5 @@ p{margin:0;}
 .deliverables{height:275px;clear:both}
 .description > p{font-size:15px;line-height:1.7em;letter-spacing:0.02em}
 .members{width:100% !important;}
-.content{font-size:17px;font-weight:bold}
+.content{font-size:15px;font-weight:600}
 .tab-content{margin:30px 0 0 0}}

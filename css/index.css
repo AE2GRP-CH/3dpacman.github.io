@@ -2,19 +2,19 @@ body{margin:0;padding:0;}
 p{margin:0;}
 .main-container{width:1360px;margin:0 auto}
 .top{height:100%;background:#f0f0f0}
-.header{height:25px;padding:5px;background:#277552;color:#fff;padding:10px;font-family: Avenir}
+.header{height:25px;padding:5px;background:#277552;color:#fff;padding:10px;font-family: Avenir,Helvetica}
 .header > .left{font-size:15pt;float:left;width:50%;font-weight:bold;}
 .top-content{text-align:center;margin:11% auto 5% auto;}
 .top-content .title > p{font-family:Wawati Sc;font-size:20px;letter-spacing: 0.05em}
 .top-content-links{margin:17px 0 0 0;font-size:15.5px;}
 .top-content-links p > a{font-family:Avenir;text-decoration: none;font-weight:bold;letter-spacing: 0.03em;color:#277552;cursor:pointer}
 .top-content-links p > a:hover{border-bottom:3px solid #277552; -webkit-transition:border-bottom 0.09s ease; transition:border-bottom 0.09s ease}
-.bottom{height100%; 0 0 0;margin:0;font-family: Avenir}
+.bottom{height100%; 0 0 0;margin:0;font-family: Avenir,Helvetica}
 .tab-title{font-size:22px;font-weight:700;margin:0 0 20px 0}
 .row1,.row2{height:50%}
 .left,.right{float:left;width:50%;}
 .item{padding:20px;height:100% !important}
-#gamename{font-family:Avenir;font-size:6.0em;font-weight:bold}
+#gamename{font-family:Avenir,Helvetica;font-size:6.0em;font-weight:bold}
 .first1{margin:0}
 .deliverables{height:275px;clear:both}
 .description > p{font-size:15px;line-height:1.7em;letter-spacing:0.02em}
